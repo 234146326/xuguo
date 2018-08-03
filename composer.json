@@ -6,5 +6,7 @@
             "email": "15889984263@163.com"
         }
     ],
-    "require": {}
+    "require": {
+        "mpociot/documentarian": "^0.2.1"
+    }
 }
